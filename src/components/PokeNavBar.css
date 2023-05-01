@@ -1,0 +1,15 @@
+header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 120px;
+  background-color: #B9EDDD;
+  box-shadow: 0px 0px 12px grey;
+}
+
+h1{
+    text-shadow: 3px 0px 7px grey, 
+	  -3px 0px 7px white, 
+	  0px 4px 7px white;
+}

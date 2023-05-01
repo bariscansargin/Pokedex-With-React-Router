@@ -1,0 +1,14 @@
+.poke-card-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #B9EDDD;
+    width: 200px;
+    height: 200px;
+    margin: 30px 20px;
+    padding: 10px 10px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 8px black;
+    
+}
